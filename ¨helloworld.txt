@@ -1,3 +1,2 @@
-Hello World -- MH
  Hello world! SJB
 - Git bash 
