@@ -1,2 +1,2 @@
-Hello World -- CT
-I used Git Bash this time!
+Hello World -- IG
+I used Nano!
